@@ -1,0 +1,11 @@
+
+.pdf-container {  
+    width: 95%; /* Aumenta el ancho del contenedor al 95% */  
+    height: 90vh; /* Ajusta la altura del contenedor al 80% de la ventana */  
+    overflow-y: auto; /* Habilitar scroll vertical */  
+    border: 1px solid #8F00FF;  
+    margin-bottom: 20px;  /* Espaciado entre el PDF y los botones */  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+}
